@@ -8,5 +8,5 @@ Pillow
 pyrogram==1.0.7
 requests
 tgcrypto
-youtube-dl -U 
+youtube-dl==2021.5.16
 git+https://github.com/prgofficial/YouTubeDL
